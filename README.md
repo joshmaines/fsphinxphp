@@ -1,4 +1,8 @@
-**FSphinx** is a PHP port of the [fSphinx] [1] Python library, which extends the Sphinx API to easily perform faceted search.
+**FSphinxPHP** is a PHP port of the [fSphinx] [1] Python library, which extends the Sphinx API to easily perform faceted search.
+
+This fork is the working copy I use on my search engine projects, which currently are only some personal projects and a large gun retailer at https://www.budsgunshop.com/catalog/search.php
+
+I have made some minor code changes in many places to make this library easier to work with, but the updates will not be shared immediately due to lack of free time. I will try to get these changes applied asap and will update this description when that happens. Need help? Contact me at https://www.tapskill.com/contact
 
 What's faceted search?
 ----------------------
